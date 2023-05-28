@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #S",
+    " i#",
+    "i  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_wool"
+    },
+    "S": {
+      "item": "minecraft:slime_block"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "warpermod:Spring_Gun",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "kysnow_music": {
+    "sounds": [
+      {
+        "name": "warpermod:kysnow_music",
+        "stream": true
+      }
+    ]
+  }
+}
